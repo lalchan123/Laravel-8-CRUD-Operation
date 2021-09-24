@@ -22,7 +22,7 @@ DB_DATABASE=laravel_blog
 
 DB_USERNAME=root
 
-DB_PASSWORD=root@123
+DB_PASSWORD=
 
 <h2>Step 3: Install composer</h2> 
 
