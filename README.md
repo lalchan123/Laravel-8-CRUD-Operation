@@ -6,7 +6,7 @@
 
 git clone https://github.com/lalchan123/Laravel-8-CRUD-Operation
 
-cd laravel8Crud
+cd Laravel-8-CRUD-Operation
 
 composer install
 
